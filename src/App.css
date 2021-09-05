@@ -1,0 +1,21 @@
+/* Implement the CSS here to render the layout as desired */
+
+.container {
+}
+
+.Header {
+}
+
+.Footer {
+}
+
+.Data {
+}
+
+.Chart {
+}
+
+.Main {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
